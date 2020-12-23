@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 _Anderson Gama_
 
--   😎 Father, Nerd, Progressive and Northeastern in Santa Catarina, Brazil. I like books, comics / manga, movies and SyFy series
+-   😎 Father, Nerd, Progressive and Northeastern in Bahia, Brazil. I like books, comics / manga, movies and SyFy series
 -   🔭 I’m currently working as DevOps / SRE
 -   🌱 I’m currently learning GCP, AZURE, GO. Rust, DevSecOps and FinOps
 -   👯 I’m looking to collaborate on Open Source and social / digital inclusion projects
