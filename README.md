@@ -22,7 +22,7 @@ _Anderson Gama_
 -   🌱 I’m currently learning GCP, AZURE, GO. Rust, DevSecOps and FinOps
 -   👯 I’m looking to collaborate on Open Source and social / digital inclusion projects
 -   🤔 I’m looking for help with the career transition from SysAdmin to DevOps
--   💬 Ask me about Linux, Virtualization, LXD, Containers and Orchestration
+-   💬 Ask me about Linux, Virtualization, IaC, LXD, Containers and Orchestration
 -   📫 How to reach me: smashse@gmail.com
 -   😄 Nickname: Smash
 -   ⚡ Fun fact: I like Punk Rock
