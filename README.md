@@ -15,14 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-_Anderson Gama_
+[**Anderson Gama**](https://www.linkedin.com/mwlite/in/andersongama)
 
 -   😎 Father, Nerd, Progressive and Northeastern in Bahia, Brazil. I like books, comics / manga, movies and SyFy series
--   🔭 I’m currently working as DevOps / SRE
--   🌱 I’m currently learning GCP, AZURE, GO. Rust, DevSecOps and FinOps
+-   🔭 I’m currently working with DevOps / SRE on cloud infrastructure projects
+-   🌱 I’m currently learning GO and Rust
 -   👯 I’m looking to collaborate on Open Source and social / digital inclusion projects
--   🤔 I’m looking for help with the career transition from SysAdmin to DevOps
--   💬 Ask me about Linux, Virtualization, IaC, LXD, Containers and Orchestration
+-   🤔 I'm helping those looking for me with the career transition from SysAdmin to DevOps
+-   💬 Ask me about Linux, Virtualization, IaC, Containers, Orchestration, and Observability
 -   📫 How to reach me: anderson@gama.technology
 -   😄 Nickname: Smash
 -   ⚡ Fun fact: I like Punk Rock
+
+[**Experience**](https://www.linkedin.com/in/andersongama/details/experience/)
+
+[**Certificates**](https://www.linkedin.com/in/andersongama/details/certifications/)
