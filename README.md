@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 [**Experience**](https://www.linkedin.com/in/andersongama/details/experience/)
 
 [**Certificates**](https://www.linkedin.com/in/andersongama/details/certifications/)
+
+[**Badges**](https://www.credly.com/users/anderson-gama.80cfdfcb)
