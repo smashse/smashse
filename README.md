@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 [**Certificates**](https://www.linkedin.com/in/andersongama/details/certifications/)
 
-[**Badges**](https://www.credly.com/users/anderson-gama.80cfdfcb)
+[**Badges**](https://www.credly.com/users/andersongama)
